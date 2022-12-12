@@ -4,12 +4,13 @@
 /**
  * main - main block
  * Description: Prints all single digit number of base 10
- * Starting from 0, followed by a new line.
- * Return: Always 0 (success)
+ * starting from 0, followed by a new line.
+ * Return: 0
  */
 int main(void)
 {
 	char c = '0';
+
 	while (c <= '9')
 	{
 		putchar(c);
