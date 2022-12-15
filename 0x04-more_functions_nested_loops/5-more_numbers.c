@@ -21,8 +21,8 @@ void more_numbers(void)
 
 			if (f)
 				_putchar('0' + f);
+			_putchar('0' + s);
 		}
-		_putchar('0' + s);
+		_putchar('\n');
 	}
-	_putchar('\n');
 }
