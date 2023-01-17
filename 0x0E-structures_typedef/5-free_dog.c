@@ -1,3 +1,8 @@
+/*
+ * File: 5-free_dog.c
+ * Auth: Brennan D Baraban
+ */
+
 #include <stdlib.h>
 #include "dog.h"
 
